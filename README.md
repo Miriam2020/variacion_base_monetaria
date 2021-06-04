@@ -1,12 +1,14 @@
 # variacion_base_monetaria
 (A precio constante)
 
+Indicaciones de ejeci
+
 En este proyecto utilizo conexión a las APIS de BCRA y DATOS.GOB.AR para obtener los siguientes datos:
 
 1 - Base Monetaria: https://api.estadisticasbcra.com <br>
 2 - Indice de Precios al Consumidor: https://datos.gob.ar/series/api/series/?ids=148.3_INIVELNAL_DICI_M_26
 
-NOTA: En el caso del BCRA utilizo una token propio por lo que deberán cambiar este dato para poder replicar el código.
+NOTA: En el caso del BCRA utilizo una token propio por lo que deberán solicitar uno propio para poder replicar el código. Se trata de un archivo json con el siguiente formato: <b> {"Authorization": "Bearer TOKEN"} </b>
 
 Los pasos seguidos para lograr el cálculo de la variación monetaria a precio constante son los siguientes:
 
