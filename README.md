@@ -25,4 +25,4 @@ Finalmente obtenemos el siguiente gráfico como resultado.
 
 <img src="/grafico.png"/>
 
-OBSERVACIÓN: En la serie de IPC hay 12 valores nulos
+OBSERVACIÓN: En la serie de IPC hay 12 valores nulos por ello aparecen cortadas las series de IPC e IBM a precio constante
