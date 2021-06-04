@@ -1,5 +1,5 @@
 # variacion_base_monetaria
-(a precio constante)
+(A precio constante)
 
 En este proyecto utilizo conexión a las APIS de BCRA y DATOS.GOB.AR para obtener los siguientes datos:
 
