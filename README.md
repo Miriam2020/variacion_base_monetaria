@@ -1,5 +1,4 @@
 # Calculo de la variación de la base monetaria a precio constante
-(A precio constante)
 
 
 En este proyecto utilizo conexión a las APIS de BCRA y DATOS.GOB.AR para obtener los siguientes datos:
