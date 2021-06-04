@@ -1,7 +1,6 @@
 # variacion_base_monetaria
 (A precio constante)
 
-Indicaciones de ejeci
 
 En este proyecto utilizo conexión a las APIS de BCRA y DATOS.GOB.AR para obtener los siguientes datos:
 
