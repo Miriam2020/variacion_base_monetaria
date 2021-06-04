@@ -23,6 +23,6 @@ Antes de empezar se observa en la documentacion del IPC que el mes base es Dicie
 
 Finalmente obtenemos el siguiente gráfico como resultado.
 
-OBSERVACIÓN: En la serie de IPC hay 12 valores nulos
-
 <img src="/grafico.png"/>
+
+OBSERVACIÓN: En la serie de IPC hay 12 valores nulos
