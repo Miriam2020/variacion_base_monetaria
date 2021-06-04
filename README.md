@@ -10,7 +10,7 @@ NOTA: En el caso del BCRA utilizo una token propio por lo que deberán solicitar
 
 Los pasos seguidos para lograr el cálculo de la variación monetaria a precio constante son los siguientes:
 
-Antes de empezar se observa en la documentacion del IPC que el mes base es Diciemnbre 2016 = 100. Entonces tomamos esta fecha como inicio.
+Antes de empezar se observa en la documentacion del IPC que el mes base es <b> Diciembre 2016 = 100 </b>. Entonces tomamos esta fecha como inicio.
 
 1 - Bajar datos de la base monetaria del BCRA <br>
 2 - Transformar esta información a valor mensual (tomando como referencia el valor promedio) <br>
