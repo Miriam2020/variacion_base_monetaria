@@ -1,4 +1,4 @@
-# variacion_base_monetaria
+# Calculo de la variación de la base monetaria a precio constante
 (A precio constante)
 
 
